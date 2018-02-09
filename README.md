@@ -4,7 +4,7 @@ This is an Android Application - Doctor Robo Patient/Kiosk Application - I devel
 
 This application utilizes android phones to serve as a screen for patients to interact with at a kiosk, or from the convenience of their mobile phone to converse with a doctor anywhere in the world. It also has the ability to add funds to user account and check if there are any medication ready for collection at a nearby kiosk.
 
-This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button.
+This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button. This application also uses Sinch to facilitate video calls.
 
 This has been deployed on the Amazon Cloud so it can be accessed from anywhere, anytime.
 
@@ -42,6 +42,7 @@ This framework needs a Virtual Environment (I used Elastic Beanstalk Virtual Dev
 * [Java](https://www.java.com/en/) - Front End Development Language
 * [Android Studio](https://developer.android.com/studio/index.html) - Database
 * [Cloudinary](https://cloudinary.com/) - Image/File Management Cloud
+* [Sinch](https://www.sinch.com/docs/video/) - Video Calling Platform Provider
 
 ## Contributing
 
