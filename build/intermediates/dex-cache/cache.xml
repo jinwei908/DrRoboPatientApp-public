@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jinwei-PC\AndroidStudioProjects\DrRobo2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jinwei-PC\AndroidStudioProjects\DrRobo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e93793c3af1110bf79c352060d8d7d2728deeb7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jinwei-PC\AndroidStudioProjects\DrRobo2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d32cc01ed4b8435737fc38b8541eab6e43eed2c4">
+        <dex dex="C:\Users\Jinwei-PC\AndroidStudioProjects\DrRobo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0065063bc777114238c263dc3f42951dbcb4daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jinwei-PC\.android\build-cache\20302e3f09d1b2331a3f5f51ae55cf8432db9438\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="C:\Users\Jinwei-PC\AndroidStudioProjects\DrRobo2\app\build\intermediates\pre-dexed\debug\classes_6efc2be7fca0a1d629f322352d0a2575f6cc9599.jar" />
+    </item>
+
+</items>
