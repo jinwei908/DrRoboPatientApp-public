@@ -4,7 +4,7 @@ This is an Android Application - Doctor Robo Patient/Kiosk Application - I devel
 
 This application utilizes android phones to serve as a screen for patients to interact with at a kiosk, or from the convenience of their mobile phone to converse with a doctor anywhere in the world. It also has the ability to add funds to user account and check if there are any medication ready for collection at a nearby kiosk.
 
-This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button.
+This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button. This project also uses Sinch to facilitate video calling.
 
 This has been deployed on the Amazon Cloud so it can be accessed from anywhere, anytime.
 
@@ -12,7 +12,7 @@ This project is built in 2 days from 2nd OCT 2017 to 3rd OCT 2017 for the ASEAN 
 
 Please visit my [Blog](https://www.reversethatshell.com) for more information of this project.
 - [Blog - ASEAN 100 Hackathon - Connected Smart Cities](https://www.reversethatshell.com)
-- [Source Code - Doctor's Application]()
+- [Source Code - Doctor's Application](https://github.com/jinwei908/DrRoboDoctorApp-public)
 - [Source Code - Doctor Robo Web Server](https://github.com/jinwei908/DrRoboWeb-public)
 
 ## Getting Started
@@ -50,7 +50,7 @@ This framework needs a Virtual Environment (I used Elastic Beanstalk Virtual Dev
 
 ## Versioning
 
-This built is current on v0.3.x as of 10th November 2017
+This built is current on v1.0.x as of 3rd October 2017
 
 
 ## Authors
