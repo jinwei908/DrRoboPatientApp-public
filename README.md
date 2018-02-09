@@ -1,14 +1,14 @@
 # Doctor Robo Patient/Kiosk Application v1.0.2
 
-This is an Android Application - Doctor Robo Patient/Kiosk Application - I developed for the ASEAN 100 Hackathon for Connected Smart Cities from 2nd October to 3rd October 2017. 
+This is an Android Application - Doctor Robo Patient/Kiosk Application - I developed for the ASEAN 100 Hackathon for Connected Smart Cities from 2nd October to 3rd October 2017.
 
 This application utilizes android phones to serve as a screen for patients to interact with at a kiosk, or from the convenience of their mobile phone to converse with a doctor anywhere in the world. It also has the ability to add funds to user account and check if there are any medication ready for collection at a nearby kiosk.
 
-This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button. This application also uses Sinch to facilitate video calls.
+This project is unique because it utilizes the Amazon IoT Button and SNS services to process information and call the ambulance with a touch of a button.
 
 This has been deployed on the Amazon Cloud so it can be accessed from anywhere, anytime.
 
-*This project is built in 2 days from 2nd OCT 2017 to 3rd OCT 2017 for the ASEAN 100 Hackathon, It comes with 4 other applications (Doctor, Patient, Ambulance, Kiosk) as well as numerous IoT sensors and motors to power the entire system.*
+This project is built in 2 days from 2nd OCT 2017 to 3rd OCT 2017 for the ASEAN 100 Hackathon, It comes with 4 other applications (Doctor, Patient, Ambulance, Kiosk) as well as numerous IoT sensors and motors to power the entire system.
 
 Please visit my [Blog](https://www.reversethatshell.com) for more information of this project.
 - [Blog - ASEAN 100 Hackathon - Connected Smart Cities](https://www.reversethatshell.com)
@@ -37,12 +37,12 @@ This framework needs a Virtual Environment (I used Elastic Beanstalk Virtual Dev
 *To be implemented once the build is stable*
 
 ## Built With
-
+ 
 * [Amazon Web Services](https://aws.amazon.com) - Cloud Server Hosting
-* [Java](https://www.java.com/en/) - Front End Development Language
-* [Android Studio](https://developer.android.com/studio/index.html) - Database
+* [Java](https://www.java.com/en/) - Front End Language
+* [Android Studio](https://developer.android.com/studio/index.html) - IDE for Android
+* [Sinch](https://www.sinch.com/docs/video/) - Video Call Platform provider
 * [Cloudinary](https://cloudinary.com/) - Image/File Management Cloud
-* [Sinch](https://www.sinch.com/docs/video/) - Video Calling Platform Provider
 
 ## Contributing
 
@@ -50,7 +50,8 @@ This framework needs a Virtual Environment (I used Elastic Beanstalk Virtual Dev
 
 ## Versioning
 
-This built is current on v1.0.x as of 3 October 2017
+This built is current on v0.3.x as of 10th November 2017
+
 
 ## Authors
 
